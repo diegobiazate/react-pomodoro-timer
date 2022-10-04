@@ -21,11 +21,7 @@ export function NewCycleForm() {
       />
 
       <datalist id="task-suggestions">
-        <option value="Projeto x" />
-        <option value="Projeto 3" />
-        <option value="Projeto 5" />
-        <option value="Projeto cece" />
-        <option value="Projeto jbiu" />
+        <option value="Project pomodoro timer" />
       </datalist>
 
       <label htmlFor="minutesAmount">durante</label>
